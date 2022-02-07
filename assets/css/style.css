@@ -13,7 +13,7 @@ html {
 h1 {
   font-family: 'Roboto Slab', serif;
   font-size: 60px;
-  letter-spacing: 0.8em;
+  letter-spacing: 0.08em;
   color: #fff;
   font-weight: 300;
   text-align: center;
@@ -108,12 +108,12 @@ a {
 }
 .header-logo__link {
   display: block;
-  padding: 20px 20px 20px 0;
+  padding: 20px;
 }
 .header-logo__accent {
   display: inline-block;
   padding: 14px 1px 13px 5px;
-  bottom: 3px solid #d53d27;
+  border: 3px solid #d53d27;
 }
 .header-navbar__btn {
   display: none;
